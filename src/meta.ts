@@ -9,7 +9,7 @@ const baseConfig = {
   namespace: 'https://github.com/futamura/GlanceBrief',
   version: undefined /* will be set below */,
   description: 'Instant multi-AI article summarizer',
-  author: 'Kojiro Futamura <gumob.dev@gmail.com>',
+  author: 'Kojiro Futamura <futamura.dev@gmail.com>',
   license: 'MIT',
   match: ['*://*/*'],
   grant: [
